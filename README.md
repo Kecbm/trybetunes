@@ -1,36 +1,36 @@
-# Habilidades
+# Skills
 
-Neste projeto, eu fui capaz de:
+In this project, I was able to:
 
-  * Fazer requisições e consumir dados vindos de uma `API`;
+   * Make requests and consume data from an `API`;
 
-  * Utilizar os ciclos de vida de um componente React;
+   * Use the life cycles of a React component;
 
-  * Utilizar a função `setState` de forma a garantir que um determinado código só é executado após o estado ser atualizado
+   * Use the `setState` function to ensure that a given code is only executed after the state is updated
   
-  * Utilizar o componente `BrowserRouter` corretamente;
+   * Use the `BrowserRouter` component correctly;
 
-  * Criar rotas, mapeando o caminho da URL com o componente correspondente, via `Route`;
+   * Create routes, mapping the URL path with the corresponding component, via `Route`;
 
-  * Utilizar o `Switch` do `React Router`
+   * Use `Switch` from `React Router`
 
-  * Usar o componente `Redirect` pra redirecionar para uma rota específica;
+   * Use the `Redirect` component to redirect to a specific route;
 
-  * Criar links de navegação na aplicação com o componente `Link`;
+   * Create navigation links in the application with the `Link` component;
 
-## O que foi desenvolvido
+## What was developed
 
-Neste projeto foi desenvolvido o TrybeTunes, uma aplicação capaz de reproduzir músicas das mais variadas bandas e artistas, criar uma lista de músicas favoritas e editar o perfil da pessoa usuária logada. Essa aplicação é capaz de:
+In this project, TrybeTunes was developed, an application capable of playing music from the most varied bands and artists, creating a list of favorite songs and editing the profile of the logged in user. This application is capable of:
 
-  - Fazer login;
-  - Pesquisar por uma banda ou artista;
-  - Listar os álbuns disponíveis dessa banda ou artista;
-  - Visualizar as músicas de um álbum selecionado;
-  - Reproduzir uma prévia das músicas deste álbum;
-  - Favoritar e desfavoritar músicas;
-  - Ver a lista de músicas favoritas;
-  - Ver o perfil da pessoa logada;
+   - Login;
+   - Search for a band or artist;
+   - List the available albums of this band or artist;
+   - View songs from a selected album;
+   - Play a preview of the songs from this album;
+   - Favorite and unfavorite songs;
+   - View the list of favorite songs;
+   - View the profile of the logged in person;
 
-# Arquivos disponibilizados pela Trybe
+# Files made available by Trybe
 
-As funções da pasta services foram fornecidas pela Trybe.
+The functions in the services folder were provided by Trybe.
